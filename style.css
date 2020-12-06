@@ -1,0 +1,168 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&display=swap');
+.header{
+    position: relative;
+    left:20%;
+    top:50px;
+    width:890px;
+    height:325px;
+}
+ .logo{
+    float:left;
+    line-height:1px;
+ }
+ .logo2{
+     position: relative;
+     padding: 10.4%;
+ }
+ 
+ul{
+    margin:0px;
+    padding:0px;
+    list-style-type:none;
+}
+.buttons li{
+    float:right;
+    position: relative;
+    width:80px;
+    height: 80px;
+}
+.buttons .Homepage{
+    background:url(images/home-page.jpg)
+}
+.buttons .Homepage:hover{
+    background:url(images/home-page-over.jpg)
+}
+.buttons .aboutus{
+    background:url(images/about-us.jpg)
+}
+.buttons .aboutus:hover{
+    background:url(images/about-us-over.jpg)
+}
+.buttons .location{
+    background:url(images/location.jpg)
+}
+.buttons .location:hover{
+    background:url(images/location-over.jpg)
+}
+.buttons .menu{
+    background:url(images/menu.jpg)
+}
+.buttons .menu:hover{
+    background:url(images/menu-over.jpg)
+}
+.buttons .contacts{
+    background:url(images/contacts.jpg)
+}
+.buttons .contacts:hover{
+    background:url(images/contacts-over.jpg)
+}
+.green
+{
+    color: rgb(36, 99, 36);
+}
+#unbold
+{
+    font-size:13px;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+.list{
+    margin-top:10%;
+    float:left;
+    width:300px;
+    margin-left:5%;
+}
+.list img{
+    width:300px;
+}
+.list ul{
+    list-style-type: square;
+    width:200px;
+}
+.list ul li 
+{
+    color:rgb(36, 99, 36);
+}
+.list ul li span{
+    color:black;
+}
+.line
+{
+    margin-top:10%;
+    float:left;
+}
+.recipes{
+    margin-top:10%;
+}
+.recipes img{
+    position:relative;
+
+    width:600px;
+}
+.block1{
+    float:left;
+    position: relative;
+    width:290px;
+    height:215px;
+    margin:0 auto;
+    margin-right:5px ;
+}
+.block1 img{
+    padding:10px;
+    float:left;
+}
+.p1{
+    padding-top:10px;
+    font-size:12px;
+}
+.p2
+{
+    padding:10px;
+    font-size:14px;
+    clear: both;
+}
+.a{
+    color:black;
+}
+.block2{
+    float:left;
+    position: relative;
+    width:300px;
+    height:215px;
+    margin:0 auto;
+    margin-right:5px;
+    margin-bottom:20px;
+}
+.block2 img{
+    float:left;
+    padding:10px;
+}
+.footer
+{
+    position: relative;
+    width:1000px;
+    height:50px;
+    background:rgb(100, 56, 56);
+    clear:both;
+    margin-left:10%;
+    text-align: center;
+    
+}
+.child{
+    position: relative;
+    top:15px;
+}
+.child a{
+    padding:3px;
+    margin:4px;
+    color:white;
+    text-decoration: none;
+}
+.child a:hover{
+    font-size:18px;
+    background:rgb(46, 25, 25);
+}
+#autor-rights
+{
+    text-align: center;
+    font-size:12px;
+}
